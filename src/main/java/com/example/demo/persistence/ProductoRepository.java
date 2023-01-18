@@ -5,7 +5,6 @@ import com.example.demo.domain.repository.ProductRepository;
 import com.example.demo.persistence.crud.ProductoCrudRepository;
 import com.example.demo.persistence.entity.Producto;
 import com.example.demo.persistence.mapper.ProductMapper;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Repository;
 
 import java.util.List;

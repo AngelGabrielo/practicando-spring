@@ -1,7 +1,6 @@
 package com.example.demo.domain.repository;
 
 import com.example.demo.domain.Purchase;
-import com.example.demo.domain.PurchaseItem;
 
 import java.util.List;
 import java.util.Optional;

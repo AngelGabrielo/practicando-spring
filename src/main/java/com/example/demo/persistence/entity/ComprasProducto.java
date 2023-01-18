@@ -1,6 +1,7 @@
 package com.example.demo.persistence.entity;
 
-import jakarta.persistence.*;
+
+import javax.persistence.*;
 
 @Entity
 @Table(name = "compras_productos")

@@ -1,8 +1,7 @@
 package com.example.demo.persistence.entity;
 
-import jakarta.persistence.*;
 
-import java.sql.Timestamp;
+import javax.persistence.*;
 import java.time.LocalDateTime;
 import java.util.List;
 
